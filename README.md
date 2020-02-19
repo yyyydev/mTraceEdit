@@ -6,9 +6,9 @@
 
  **设定喷泉在三维空间中，坐标系如下图所示：**
 
-![blockchain](https://learnopengl-cn.github.io/img/01/08/coordinate_systems_right_handed.png "坐标系")
+![坐标系统](https://github.com/yyyydev/mTraceEdit/raw/master/coordinate_systems_right_handed.png "坐标系")
 
- 															*图像展示在xy平面。*
+*图像展示在xy平面。*
 
  目前设定，暂有三个与喷泉有关的参数：
 
