@@ -24,7 +24,7 @@
 
 ![喷泉角度参数](https://raw.githubusercontent.com/yyyydev/mTraceEdit/master/fountain.png "喷泉参数")
 
-`如图所示，设a点为喷泉的顶点，c点为a点在xz平面的投影点，o点为(0,0,0)点。`
+`如图所示，黄色线段为喷泉。设a点为喷泉的顶点，c点为a点在xz平面的投影点，o点为(0,0,0)点。`
 
 `那么，定义角cod为X轴角度；角aob为Y轴角度。`
 
